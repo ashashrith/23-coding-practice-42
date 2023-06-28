@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.lightName {
+  color: #333333;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.darkName {
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+}

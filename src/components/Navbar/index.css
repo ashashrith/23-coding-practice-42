@@ -1,0 +1,59 @@
+/* Write your CSS here */
+
+.nav-light {
+  height: 20vh;
+  width: 100%;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+}
+
+.nav-dark {
+  height: 20vh;
+  width: 100%;
+  background-color: #333333;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+}
+
+.img {
+  height: 20px;
+  width: 20px;
+  background-size: cover;
+}
+
+.name-cont {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.light-name {
+  color: #333333;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.dark-name {
+  color: white;
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.btn {
+  border-width: 0px;
+  height: auto;
+  width: auto;
+  background-color: transparent;
+}
